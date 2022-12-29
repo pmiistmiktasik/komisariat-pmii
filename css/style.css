@@ -5,9 +5,6 @@ body {
 section {
   min-height: 100vh;
 }
-.tagline {
+.ff-josefin {
   font-family: "Josefin Sans", sans-serif;
-}
-#hero {
-  background-color: #cefafe;
 }
