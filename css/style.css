@@ -3,7 +3,8 @@ body {
   font-family: "Poppins", sans-serif;
 }
 #hero,
-#rayon {
+#rayon,
+#about {
   min-height: 100vh;
 }
 .ff-josefin {
