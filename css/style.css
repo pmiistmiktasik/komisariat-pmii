@@ -2,9 +2,23 @@
 body {
   font-family: "Poppins", sans-serif;
 }
-section {
+#hero,
+#rayon {
   min-height: 100vh;
 }
 .ff-josefin {
   font-family: "Josefin Sans", sans-serif;
+}
+.overin {
+  overflow-x: scroll;
+  flex-wrap: nowrap;
+}
+
+@media (min-width: 576px) {
+  .overin {
+    overflow-x: auto;
+    flex-wrap: wrap;
+  }
+}
+@media (min-width: 768px) {
 }
