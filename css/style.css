@@ -6,7 +6,8 @@ body {
 #rayon,
 #about,
 #testi,
-#faq {
+#faq,
+#footer {
   min-height: 100vh;
 }
 .ff-josefin {
