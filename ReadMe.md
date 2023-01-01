@@ -30,11 +30,11 @@ Teknologi yang digunakan untuk membangun repo ini diantaranya:
 3. [Bootstrap 5.2](https://getbootstrap.com/)
 4. [Bootstrap Icons](https://icons.getbootstrap.com/)
 
-## Demo
+## 📺 Demo
 
 [Komisariat.sampurasun.my.id](https://komisariat.sampurasun.my.id/)
 
-## Instalasi
+## 🔧 Instalasi
 
 1. Download atau Clone repository ini melalui terminal git (pastikan sudah menginstall git)
 
@@ -45,10 +45,12 @@ Teknologi yang digunakan untuk membangun repo ini diantaranya:
 2. Buka file index.html atau Edit untuk kustomisasi.
 3. Selesai
 
-## Kustomisasi
+## ⚙️ Kustomisasi
 
-Edit file index.html untuk kustomisasi
+Selagi belum ada dokumen elektronik petunjuk untuk kustomisasi, sebaiknya minta bantuan kepada kenalan programmer.
+<br>
+Atau hubungi sahabat kami yang ada di komisariat STMIK Tasikmalaya.
 
-## Lisensi
+## 📃 Lisensi
 
 Project Sistem Informasi ini merupakan software yang free dan open source di bawah [lisensi MIT](LICENSE).
