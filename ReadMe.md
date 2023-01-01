@@ -8,9 +8,9 @@ Komisariat-PMII adalah source code landing page yang diperuntukkan komisariat PM
 
 `STABIL & MEMBUTUHKAN KONTRIBUSI AGAR TERUS UPGRADE`
 <br>
-Per 1 Januari 2023, repo ini telah release versi 1.0.0 yang mana versi ini sudah full struktur website tapi masih dapat dikatakan template. Template artinya isi dari codenya masih berisi data dummy, sehingga memerlukan keahlian programmer untuk menggunakan dan kustomisasinya.
+Per Januari 2023, repo ini telah release versi 1.0.0 yang mana versi ini sudah full struktur website tapi masih dapat dikatakan template. Template artinya isi dari codenya masih berisi data dummy, sehingga memerlukan keahlian programmer untuk menggunakan dan kustomisasinya.
 <br>
-Rencana kedepannya, saya ingin memodifikasi codenya sehingga mudah dicostomisasi oleh orang awam (bukan programmer) dan membuat dokumen elektronik (pdf) perihal instalasinya.
+Rencana kedepannya, saya ingin memodifikasi codenya sehingga mudah dikustomisasi oleh orang awam (bukan programmer) dan membuat dokumen elektronik (pdf) perihal tersebut.
 
 ## 📜 Kekurangan & Permohonan
 
@@ -36,14 +36,10 @@ Teknologi yang digunakan untuk membangun repo ini diantaranya:
 
 ## 🔧 Instalasi
 
-1. Download atau Clone repository ini melalui terminal git (pastikan sudah menginstall git)
+Ada beberapa cara untuk menggunakan repo ini, diantaranya:
 
-```sh
-  git clone https://github.com/pmiistmiktasik/komisariat-pmii.git
-```
-
-2. Buka file index.html atau Edit untuk kustomisasi.
-3. Selesai
+- [Download Versi Terbaru](https://github.com/pmiistmiktasik/komisariat-pmii/archive/v1.0.0.zip)
+- Clone Repo `git clone https://github.com/pmiistmiktasik/komisariat-pmii.git`
 
 ## ⚙️ Kustomisasi
 
