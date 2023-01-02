@@ -26,6 +26,12 @@ body {
 .cta {
   font-size: 2rem;
 }
+.img-hero {
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
 
 @media (min-width: 576px) {
   .overin {
@@ -36,5 +42,8 @@ body {
 @media (min-width: 768px) {
   .cta {
     font-size: 4rem;
+  }
+  .img-hero {
+    aspect-ratio: auto;
   }
 }
